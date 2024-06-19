@@ -65,9 +65,9 @@ This project aims to analyze employee demographic and compensation data from SQL
 ## Dashboard Glimpse
 
 ![sc](https://github.com/ramyakrj5/GW-Project-3-Workforce-Diversity-and-Salary-Analysis-Using-Power-BI-SQL/blob/main/GW%20Project%203%20using%20Power%20Bi%2CSQL-images-0.jpg)
-![sc](https://github.com/ramyakrj5/GW-Project-3-Workforce-Diversity-and-Salary-Analysis-Using-Power-BI-SQL/blob/main/GW%20Project%203%20using%20Power%20Bi%2CSQL-images-1.jpg)
-![sc](https://github.com/ramyakrj5/GW-Project-3-Workforce-Diversity-and-Salary-Analysis-Using-Power-BI-SQL/blob/main/GW%20Project%203%20using%20Power%20Bi%2CSQL-images-2.jpg)
-![sc](https://github.com/ramyakrj5/GW-Project-3-Workforce-Diversity-and-Salary-Analysis-Using-Power-BI-SQL/blob/main/GW%20Project%203%20using%20Power%20Bi%2CSQL-images-3.jpg)
+![sc](https://github.com/ramyakrj5/GW-Project-3-Workforce-Diversity-and-Salary-Analysis-Using-Power-BI-SQL/blob/main/GW%20Project%203%20using%20Power%20Bi%2CSQL%20(1)-images-4.jpg)
+![sc](https://github.com/ramyakrj5/GW-Project-3-Workforce-Diversity-and-Salary-Analysis-Using-Power-BI-SQL/blob/main/GW%20Project%203%20using%20Power%20Bi%2CSQL%20(1)-images-5.jpg)
+![sc](https://github.com/ramyakrj5/GW-Project-3-Workforce-Diversity-and-Salary-Analysis-Using-Power-BI-SQL/blob/main/GW%20Project%203%20using%20Power%20Bi%2CSQL%20(1)-images-6.jpg)
 
 
 ## Recommendations
